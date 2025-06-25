@@ -1,4 +1,4 @@
-# 🎤📹 Audio & Video Recorder App
+ Audio & Video Recorder App
 
 A React-based web app to record **audio** and **video** using the browser's MediaRecorder API, with a responsive UI built using **Ant Design** and **Bootstrap**. Users can preview, download, discard, and save recordings to local storage.
 
